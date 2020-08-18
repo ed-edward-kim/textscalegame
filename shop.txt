@@ -1,0 +1,5 @@
+Sword
+Helmet
+Chest
+Shoes
+Potion
